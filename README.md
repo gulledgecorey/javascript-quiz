@@ -12,3 +12,7 @@ This webpage can be used to test your knowledge in JavaScript with the added cha
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## ScreenShot
+
+<img width="780" alt="Screenshot 2023-05-25 at 7 17 19 PM" src="https://github.com/gulledgecorey/javascript-quiz/assets/130395149/7eda7b52-f427-4214-8c0a-2970cda0bd38">
