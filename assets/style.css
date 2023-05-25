@@ -1,0 +1,52 @@
+.header-a {
+    color: purple;
+}
+.header-p {
+   text-align: right;
+}
+.challenge {
+    text-align: center;
+}
+.paragraph {
+    text-align: center;
+}
+.starter {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+.answer-1 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+.answer-2 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+.answer-3 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
+.answer-4 {
+    background-color:purple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+}
