@@ -12,3 +12,4 @@ This webpage can be used to test your knowledge in JavaScript with the added cha
 ## License
 
 Please refer to the LICENSE in the repo.
+
