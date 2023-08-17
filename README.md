@@ -13,3 +13,6 @@ This webpage can be used to test your knowledge in JavaScript with the added cha
 
 Please refer to the LICENSE in the repo.
 
+## ScreenShot
+
+<img width="1163" alt="image" src="https://github.com/gulledgecorey/javascript-quiz/assets/130395149/939abce6-f671-41ed-a357-40f94e8fb1a3">
